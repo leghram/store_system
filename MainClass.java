@@ -5,8 +5,9 @@ public class MainClass {
     public static void main(String[] args){
         System.out.println("HOLA PRUEBAS");
 
-        VentanaPrincipal ejemplo = new VentanaPrincipal();
+        System.out.println("prueba de ingreso");
 
+        VentanaPrincipal ejemplo = new VentanaPrincipal();
 
 
     }

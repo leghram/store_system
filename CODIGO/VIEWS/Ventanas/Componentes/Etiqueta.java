@@ -10,7 +10,6 @@ public class Etiqueta  extends JLabel {
     public  Etiqueta(String nombre){
         super(nombre);
         setOpaque(true);
-        setBounds(0,0,300,50);
 
         setBackground(Color.cyan);
         setFont(newFont);
